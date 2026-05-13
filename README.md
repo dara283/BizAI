@@ -1,4 +1,4 @@
-# Business AI Assistant
+# BizAI, a business AI assistant
 
 A full-stack AI-powered business intelligence tool that analyses business reports and returns structured summaries, key insights, and actionable recommendations — powered by OpenAI GPT.
 
